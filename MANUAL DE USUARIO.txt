@@ -1,0 +1,28 @@
+MANUAL DE USUARIO DE LA CALCULADORA BÁSICA
+
+«Introducción»
+Bienvenido al manual de usuario de la Calculadora Básica. Esta calculadora permite realizar operaciones matemáticas simples, incluyendo suma, resta, multiplicación y división. A continuación, se describen las funciones y características de la aplicación.
+
+«Interfaz de Usuario»
+La interfaz de la calculadora se organiza en dos pestañas en la parte superior:
+
+1. Opciones
+Nuevo: Al seleccionar esta opción, se reinicia la calculadora. Esto eliminará todos los números y resultados actualmente visibles en la pantalla, permitiéndole comenzar una nueva operación desde cero.
+
+Historial: Esta opción abre un archivo de texto que contiene un registro de todas las operaciones realizadas. El archivo se muestra para su revisión y referencia.
+
+2. Ayuda (?)
+Manual de Usuario: Al seleccionar esta pestaña, se despliega el archivo de texto que contiene este manual de usuario. Aquí encontrará toda la información necesaria para utilizar la calculadora de manera efectiva.
+
+«Uso de la Calculadora»
+Realizar Operaciones:
+
+Suma: Introduzca los números y el signo de suma (+) para realizar una adición.
+Resta: Introduzca los números y el signo de resta (-) para realizar una sustracción.
+Multiplicación: Introduzca los números y el signo de multiplicación (*) para realizar una multiplicación.
+División: Introduzca los números y el signo de división (/) para realizar una división.
+Botones:
+
+Si desea cerrar la aplicación, esta calculadora cuenta con su propio botón, llamado "Salir".
+
+Cada vez que presione un botón, se escuchará un sonido "Beep", que confirma que la acción ha sido registrada.
